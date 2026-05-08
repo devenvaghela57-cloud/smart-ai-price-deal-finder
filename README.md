@@ -4,7 +4,6 @@ An AI-powered mobile price comparison tool that aggregates real-time data from p
 
 ## Project Preview
 ![SmartPrice App Preview](app_preview.jpg) 
-*(Note: Replace this with your actual screenshot image)*
 
 ## Tech Stack
 * **Frontend:** Streamlit
